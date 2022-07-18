@@ -1,4 +1,4 @@
-FROM node:16.15.1-alpine3.16
+FROM public.ecr.aws/docker/library/node:16.15.1-alpine3.16
 
 MAINTAINER Cid Lopes "cid.lopes@nosto.com"
 
